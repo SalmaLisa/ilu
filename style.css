@@ -1,0 +1,12 @@
+body{
+  background-image: url(images/flickering-heats-falling.gif);
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  background:linear-gradient(#f5bdc7,rgb(211, 19, 76));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 250px; 
+}
